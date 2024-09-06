@@ -1,6 +1,5 @@
 Rencana belajar bangun kali ini :
 - satu minggu belajar git 
- -> menggunakan vcs
-- satu minggu belajar konsep mvc
+ -> menggunakan vcs git
+- belajar php mvc
 - belajar responsive web design & CRUD
-  -> menggunakan js es6, php, css.
