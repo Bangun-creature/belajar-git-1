@@ -2,3 +2,6 @@ Rencana belajar bangun kali ini :
 - satu minggu belajar git dan github implementation
 - belajar responsive web design & CRUD
   -> menggunakan js es6, php, tailwind css
+ -> menggunakan vcs git
+- belajar php mvc
+- selesai
