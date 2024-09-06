@@ -1,0 +1,4 @@
+Rencana belajar bangun kali ini :
+- satu minggu belajar git 
+- satu minggu belajar konsep mvc
+- belajar responsive web design & CRUD
